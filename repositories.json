@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Amie-Chatbot-Frontend",
+    "description": "Frontend for the Amie Chatbot demonstrating UI/UX and AI integration.",
+    "url": "https://github.com/cordz-del/Amie-Chatbot-Frontend"
+  },
+  {
+    "name": "AmieJobs",
+    "description": "Job search and matching engine using AI techniques.",
+    "url": "https://github.com/Gandre94/AmieJobs"
+  },
+  {
+    "name": "linkedin-ai-agent",
+    "description": "AI-powered agent for LinkedIn interactions.",
+    "url": "https://github.com/cordz-del/linkedin-ai-agent"
+  }
+  // Additional repositories can be added here
+]    
