@@ -1,6 +1,6 @@
 # AI-ML-Portfolio
 
-Welcome to my Machine Learning Portfolio. Here I showcase projects in computer vision, NLP, and data analysis that demonstrate my expertise in building AI solutions.
+Welcome to my Machine Learning Portfolio. Here, I showcase projects in computer vision, NLP, and data analysis that demonstrate my ability to build innovative AI solutions.
 
 ## Overview
 
