@@ -25,6 +25,8 @@ This repository is a collection of AI/ML projects that highlight my skills and k
 
 ## Articles
 
+- [AI Architecture for Beginners: Transforming Education with MLOps](https://www.linkedin.com/pulse/ai-architecture-beginners-transforming-education-mlops-robert-graham-lxbce): 
+  A beginner-friendly guide to AI architecture focusing on education, MLOps, common pitfalls, essential software, and best practices for success.
 - [The Role of AI in Mental Health Support: Can Chatbots Help?](https://www.linkedin.com/pulse/ai-chatbots-mental-health-support-promise-challenges-future-graham-hxvse): Explores how AI chatbots can bridge mental health support gaps through case studies, data, code examples, and discussions on ethics, cost, and safety.
 - [Demystifying Retrieval-Augmented Generation (RAG) for Beginners](https://www.linkedin.com/pulse/demystifying-retrieval-augmented-generation-rag-beginners-graham-12mde/?trackingId=83RoG76nRfWz1SFbz0XCvw%3D%3D): Simplifies the concept of RAG, explaining its significance and applications in natural language processing.
 - [Scaling MLOps for Enterprise Applications](https://www.linkedin.com/pulse/scaling-mlops-enterprise-applications-robert-graham-fsdxe/?trackingId=tFuDQLUiT9uuTaglc2fc3g%3D%3D): Discusses strategies for scaling MLOps in enterprise environments, emphasizing the importance of robust infrastructure and automation.
